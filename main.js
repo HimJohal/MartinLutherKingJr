@@ -3,4 +3,4 @@ document.getElementById("button").addEventListener("click", () => {
   setTimeout(() => {
     window.location.href = "start.html";
   }, 500);
-});
+}); 
